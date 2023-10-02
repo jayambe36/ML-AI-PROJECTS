@@ -1,4 +1,4 @@
-# champagne-sales-prediction
+# champagne-sales-prediction || Time Series Analysis
 
 
 • Used champagne sales data of 9 years to forecast future sales.
