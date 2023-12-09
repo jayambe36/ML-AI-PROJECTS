@@ -1,4 +1,4 @@
-# Heart_diesease_prediction
+# Heart Diesease Prediction
 A model to predict heart disease with a GUI.
 
 
